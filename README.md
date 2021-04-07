@@ -47,7 +47,7 @@ This is a list of useful WordPress functions that I often reference to enhance o
 - [Reorder Admin Menu Items](#reorder-admin-menu-items)
 - [Exclude a Category From WordPress Loops](#exclude-a-category-from-wordpress-loops)
 - [Disable the message "JQMIGRATE: Migrate is installed, version 1.4.1"](#disable-the-message---jqmigrate-migrate-is-installed-version-141)
-- [Facebook Open Graph Meta Data](#facebook-oprn-graph-meta-data)
+- [Facebook Open Graph Meta Data](#facebook-open-graph-meta-data)
 
 ## Hide WordPress Update Nag to All But Admins
 
